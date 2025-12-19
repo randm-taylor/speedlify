@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bcidahofoundation.org/courtney-frost-promoted-to-executive-director-role/",
+  "requestedUrl": "https://www.bcidahofoundation.org/courtney-frost-promoted-to-executive-director-role/",
+  "timestamp": 1766088982844,
+  "ranks": {
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 2,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.68,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 345
+  },
+  "firstContentfulPaint": 2697.5135,
+  "speedIndex": 4813.357643565432,
+  "largestContentfulPaint": 7865.009,
+  "totalBlockingTime": 26.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8018.090050000001,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 1472.211,
+  "weight": {
+    "summary": "34 requests • 1.2 MiB",
+    "total": 1244084,
+    "image": 648040,
+    "imageCount": 4,
+    "script": 503533,
+    "scriptCount": 13,
+    "document": 14374,
+    "font": 31490,
+    "fontCount": 1,
+    "stylesheet": 44804,
+    "stylesheetCount": 11,
+    "thirdParty": 337597,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 6,
+    "-weight.document": 5,
+    "+weight.document": 5,
+    "-weight.script": 3,
+    "+weight.script": 3,
+    "-weight.image": 5,
+    "+weight.image": 5,
+    "-weight.font": 2,
+    "+weight.font": 1,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 177,
+    "violations": 8
+  }
+}

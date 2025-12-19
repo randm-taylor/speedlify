@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/activity/camping-rv/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/activity/camping-rv/",
+  "timestamp": 1766089822338,
+  "ranks": {
+    "hundos": 7,
+    "performance": 6,
+    "accessibility": 3,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.56,
+    "accessibility": 0.78,
+    "bestPractices": 0.61,
+    "seo": 0.92,
+    "total": 287
+  },
+  "firstContentfulPaint": 2557.5009600000003,
+  "speedIndex": 49199.893805265354,
+  "largestContentfulPaint": 24643.74013999999,
+  "totalBlockingTime": 262,
+  "cumulativeLayoutShift": 0.006777540003755757,
+  "timeToInteractive": 117912.86936799996,
+  "maxPotentialFirstInputDelay": 310,
+  "timeToFirstByte": 1434.414,
+  "weight": {
+    "summary": "161 requests • 36.4 MiB",
+    "total": 38201966,
+    "image": 36497380,
+    "imageCount": 54,
+    "script": 1248096,
+    "scriptCount": 49,
+    "document": 29071,
+    "font": 180466,
+    "fontCount": 6,
+    "stylesheet": 157361,
+    "stylesheetCount": 15,
+    "thirdParty": 807854,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 3,
+    "-weight.document": 4,
+    "+weight.document": 6,
+    "-weight.script": 3,
+    "+weight.script": 7,
+    "-weight.image": 7,
+    "+weight.image": 3,
+    "-weight.font": 4,
+    "+weight.font": 5,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 1049,
+    "violations": 25
+  }
+}

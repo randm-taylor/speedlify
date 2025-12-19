@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/contact/",
+  "requestedUrl": "https://www.bc.com/contact/",
+  "timestamp": 1766088902295,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.58,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "seo": 0.92,
+    "total": 279
+  },
+  "firstContentfulPaint": 6393.000000000001,
+  "speedIndex": 6545.525650791806,
+  "largestContentfulPaint": 10634.048,
+  "totalBlockingTime": 110.50000000000182,
+  "cumulativeLayoutShift": 0.006398634315855769,
+  "timeToInteractive": 19667.32605,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 145.98200000000003,
+  "weight": {
+    "summary": "125 requests • 3.9 MiB",
+    "total": 4118244,
+    "image": 744967,
+    "imageCount": 14,
+    "script": 2309310,
+    "scriptCount": 55,
+    "document": 85049,
+    "font": 554546,
+    "fontCount": 7,
+    "stylesheet": 412455,
+    "stylesheetCount": 23,
+    "thirdParty": 2221780,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 7,
+    "-weight.document": 10,
+    "+weight.document": 1,
+    "-weight.script": 6,
+    "+weight.script": 5,
+    "-weight.image": 3,
+    "+weight.image": 8,
+    "-weight.font": 10,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 444,
+    "violations": 25
+  }
+}
