@@ -1,5 +1,5 @@
 module.exports = {
-	name: "BCIF", // optional, falls back to object key
+	name: "Endless Orchard", // optional, falls back to object key
 	description: "https://endlessorchardcider.com",
 	options: {
 		runs: 1,
