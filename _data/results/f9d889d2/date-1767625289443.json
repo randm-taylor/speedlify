@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/publications/tutorial-for-understanding-loads-and-using-span-tables/",
+  "requestedUrl": "https://awc.org/publications/tutorial-for-understanding-loads-and-using-span-tables/",
+  "timestamp": 1767625435116,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 9,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.76,
+    "accessibility": 0.75,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 351
+  },
+  "firstContentfulPaint": 3148.625,
+  "speedIndex": 3148.625,
+  "largestContentfulPaint": 4751.455,
+  "totalBlockingTime": 23.5,
+  "cumulativeLayoutShift": 0.04007749113999138,
+  "timeToInteractive": 6729.9735,
+  "maxPotentialFirstInputDelay": 91,
+  "timeToFirstByte": 70.69699999999999,
+  "weight": {
+    "summary": "28 requests • 812.1 KiB",
+    "total": 831543,
+    "image": 10054,
+    "imageCount": 5,
+    "script": 450652,
+    "scriptCount": 13,
+    "document": 32639,
+    "font": 180592,
+    "fontCount": 3,
+    "stylesheet": 154230,
+    "stylesheetCount": 3,
+    "thirdParty": 444685,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 9,
+    "-weight.document": 9,
+    "+weight.document": 1,
+    "-weight.script": 6,
+    "+weight.script": 4,
+    "-weight.image": 1,
+    "+weight.image": 9,
+    "-weight.font": 1,
+    "+weight.font": 8,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 546,
+    "violations": 18
+  }
+}

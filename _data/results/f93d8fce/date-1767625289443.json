@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/span-and-size-charts-for-lvl-bci-joists/",
+  "requestedUrl": "https://www.bc.com/span-and-size-charts-for-lvl-bci-joists/",
+  "timestamp": 1767625684241,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.61,
+    "accessibility": 0.7,
+    "bestPractices": 0.57,
+    "seo": 0.92,
+    "total": 280
+  },
+  "firstContentfulPaint": 5445.640440000001,
+  "speedIndex": 5445.640440000001,
+  "largestContentfulPaint": 7257.152400000002,
+  "totalBlockingTime": 124,
+  "cumulativeLayoutShift": 0.06715605373230232,
+  "timeToInteractive": 17771.329128,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 151.95999999999998,
+  "weight": {
+    "summary": "109 requests • 3.2 MiB",
+    "total": 3381488,
+    "image": 930722,
+    "imageCount": 21,
+    "script": 1541104,
+    "scriptCount": 42,
+    "document": 26480,
+    "font": 519336,
+    "fontCount": 5,
+    "stylesheet": 351334,
+    "stylesheetCount": 17,
+    "thirdParty": 1383718,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 8,
+    "-weight.document": 3,
+    "+weight.document": 8,
+    "-weight.script": 4,
+    "+weight.script": 7,
+    "-weight.image": 4,
+    "+weight.image": 7,
+    "-weight.font": 4,
+    "+weight.font": 7,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 560,
+    "violations": 32
+  }
+}
