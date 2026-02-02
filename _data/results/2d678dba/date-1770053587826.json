@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/",
+  "requestedUrl": "https://awc.org/",
+  "timestamp": 1770053705499,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.71,
+    "accessibility": 0.78,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 341
+  },
+  "firstContentfulPaint": 2946.295,
+  "speedIndex": 3147.4529853803115,
+  "largestContentfulPaint": 7090.715,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.024710098008364864,
+  "timeToInteractive": 7842.304325000002,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 79.609,
+  "weight": {
+    "summary": "48 requests • 5.3 MiB",
+    "total": 5506360,
+    "image": 1070688,
+    "imageCount": 21,
+    "script": 456658,
+    "scriptCount": 12,
+    "document": 27947,
+    "font": 271761,
+    "fontCount": 5,
+    "stylesheet": 136962,
+    "stylesheetCount": 3,
+    "thirdParty": 448608,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 3,
+    "-weight.document": 7,
+    "+weight.document": 3,
+    "-weight.script": 5,
+    "+weight.script": 5,
+    "-weight.image": 9,
+    "+weight.image": 1,
+    "-weight.font": 4,
+    "+weight.font": 6,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 390,
+    "violations": 18
+  }
+}

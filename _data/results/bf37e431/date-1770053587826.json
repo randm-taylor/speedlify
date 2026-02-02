@@ -1,0 +1,66 @@
+{
+  "url": "https://arcticapples.com/foodservice/",
+  "requestedUrl": "https://arcticapples.com/foodservice/",
+  "timestamp": 1770053682617,
+  "ranks": {
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 7,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.68,
+    "accessibility": 0.77,
+    "bestPractices": 0.82,
+    "seo": 1,
+    "total": 327
+  },
+  "firstContentfulPaint": 2665.6404999999995,
+  "speedIndex": 4311.89120116867,
+  "largestContentfulPaint": 9115.792500000001,
+  "totalBlockingTime": 134,
+  "cumulativeLayoutShift": 0.013870082667803936,
+  "timeToInteractive": 10691.8132,
+  "maxPotentialFirstInputDelay": 249,
+  "timeToFirstByte": 366.83299999999997,
+  "weight": {
+    "summary": "58 requests • 1.6 MiB",
+    "total": 1646773,
+    "image": 677039,
+    "imageCount": 10,
+    "script": 399545,
+    "scriptCount": 24,
+    "document": 18712,
+    "font": 447640,
+    "fontCount": 4,
+    "stylesheet": 92005,
+    "stylesheetCount": 11,
+    "thirdParty": 272323,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 6,
+    "-weight.document": 6,
+    "+weight.document": 4,
+    "-weight.script": 6,
+    "+weight.script": 4,
+    "-weight.image": 5,
+    "+weight.image": 5,
+    "-weight.font": 3,
+    "+weight.font": 7,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 500,
+    "violations": 14
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/calculators/span-options-calculator-for-wood-joists-and-rafters/",
+  "requestedUrl": "https://awc.org/calculators/span-options-calculator-for-wood-joists-and-rafters/",
+  "timestamp": 1770053720254,
+  "ranks": {
+    "hundos": 6,
+    "performance": 4,
+    "accessibility": 7,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.78,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 351
+  },
+  "firstContentfulPaint": 3005.246,
+  "speedIndex": 3005.246,
+  "largestContentfulPaint": 4608.604500000001,
+  "totalBlockingTime": 27,
+  "cumulativeLayoutShift": 0.050515271206559825,
+  "timeToInteractive": 8092.325949999999,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 78.77000000000001,
+  "weight": {
+    "summary": "394 requests • 34.1 MiB",
+    "total": 35722357,
+    "image": 89903,
+    "imageCount": 11,
+    "script": 800058,
+    "scriptCount": 42,
+    "document": 27141,
+    "font": 1046116,
+    "fontCount": 9,
+    "stylesheet": 144048,
+    "stylesheetCount": 7,
+    "thirdParty": 35295050,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 1,
+    "-weight.document": 6,
+    "+weight.document": 4,
+    "-weight.script": 8,
+    "+weight.script": 2,
+    "-weight.image": 3,
+    "+weight.image": 7,
+    "-weight.font": 9,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 1638,
+    "violations": 11
+  }
+}
