@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bcidahofoundation.org/executive-director-message/",
+  "requestedUrl": "https://www.bcidahofoundation.org/executive-director-message/",
+  "timestamp": 1775059761887,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.91,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 368
+  },
+  "firstContentfulPaint": 2190.7355,
+  "speedIndex": 4038.9800573576135,
+  "largestContentfulPaint": 2849.4204999999997,
+  "totalBlockingTime": 31,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6377.6515,
+  "maxPotentialFirstInputDelay": 112,
+  "timeToFirstByte": 1393.5529999999999,
+  "weight": {
+    "summary": "34 requests • 707.4 KiB",
+    "total": 724420,
+    "image": 103581,
+    "imageCount": 4,
+    "script": 527912,
+    "scriptCount": 13,
+    "document": 14475,
+    "font": 31490,
+    "fontCount": 1,
+    "stylesheet": 45100,
+    "stylesheetCount": 11,
+    "thirdParty": 359989,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 9,
+    "-weight.document": 6,
+    "+weight.document": 4,
+    "-weight.script": 2,
+    "+weight.script": 7,
+    "-weight.image": 1,
+    "+weight.image": 9,
+    "-weight.font": 1,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 184,
+    "violations": 9
+  }
+}

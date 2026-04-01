@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/boise-greenbelt/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/boise-greenbelt/",
+  "timestamp": 1775060062581,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.5,
+    "accessibility": 0.74,
+    "bestPractices": 0.61,
+    "seo": 1,
+    "total": 285
+  },
+  "firstContentfulPaint": 2296.4366500000006,
+  "speedIndex": 5695.710583542768,
+  "largestContentfulPaint": 10290.061374999997,
+  "totalBlockingTime": 701.4999999999991,
+  "cumulativeLayoutShift": 0.03805817246665217,
+  "timeToInteractive": 16203.833917500004,
+  "maxPotentialFirstInputDelay": 1332.9999999999982,
+  "timeToFirstByte": 236.546,
+  "weight": {
+    "summary": "100 requests • 2.2 MiB",
+    "total": 2308299,
+    "image": 710130,
+    "imageCount": 16,
+    "script": 1292634,
+    "scriptCount": 50,
+    "document": 28590,
+    "font": 180475,
+    "fontCount": 6,
+    "stylesheet": 84421,
+    "stylesheetCount": 9,
+    "thirdParty": 820625,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 9,
+    "-weight.document": 7,
+    "+weight.document": 3,
+    "-weight.script": 9,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 9,
+    "-weight.font": 6,
+    "+weight.font": 3,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 542,
+    "violations": 18
+  }
+}
