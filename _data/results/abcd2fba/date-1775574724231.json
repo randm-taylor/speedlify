@@ -1,0 +1,66 @@
+{
+  "url": "https://endlessorchardcider.com/private-events/",
+  "requestedUrl": "https://endlessorchardcider.com/private-events/",
+  "timestamp": 1775575409607,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 7,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.43,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "seo": 0.92,
+    "total": 269
+  },
+  "firstContentfulPaint": 3031.6505,
+  "speedIndex": 17333.293569560497,
+  "largestContentfulPaint": 14599.783000000001,
+  "totalBlockingTime": 697.0000000000036,
+  "cumulativeLayoutShift": 0.0057636110250562,
+  "timeToInteractive": 35221.78110000001,
+  "maxPotentialFirstInputDelay": 1366.0000000000073,
+  "timeToFirstByte": 712.463,
+  "weight": {
+    "summary": "150 requests • 9.8 MiB",
+    "total": 10238566,
+    "image": 7864347,
+    "imageCount": 29,
+    "script": 1162123,
+    "scriptCount": 63,
+    "document": 252582,
+    "font": 63079,
+    "fontCount": 3,
+    "stylesheet": 148542,
+    "stylesheetCount": 18,
+    "thirdParty": 1925537,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 4,
+    "-weight.document": 9,
+    "+weight.document": 1,
+    "-weight.script": 7,
+    "+weight.script": 3,
+    "-weight.image": 6,
+    "+weight.image": 4,
+    "-weight.font": 5,
+    "+weight.font": 4,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 670,
+    "violations": 16
+  }
+}

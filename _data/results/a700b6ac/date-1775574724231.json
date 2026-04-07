@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/resources/",
+  "requestedUrl": "https://awc.org/resource-hub/",
+  "timestamp": 1775574874166,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 7,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.52,
+    "accessibility": 0.99,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 351
+  },
+  "firstContentfulPaint": 1291.34,
+  "speedIndex": 2254.3686025042352,
+  "largestContentfulPaint": 6535.960500000001,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 1.3297346557731828,
+  "timeToInteractive": 6599.555650000001,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 227.608,
+  "weight": {
+    "summary": "57 requests • 1.8 MiB",
+    "total": 1841230,
+    "image": 1117491,
+    "imageCount": 34,
+    "script": 451443,
+    "scriptCount": 10,
+    "document": 9016,
+    "font": 210330,
+    "fontCount": 4,
+    "stylesheet": 48919,
+    "stylesheetCount": 3,
+    "thirdParty": 319040,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 3,
+    "-weight.document": 7,
+    "+weight.document": 3,
+    "-weight.script": 5,
+    "+weight.script": 5,
+    "-weight.image": 9,
+    "+weight.image": 1,
+    "-weight.font": 5,
+    "+weight.font": 4,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 1165,
+    "violations": 13
+  }
+}

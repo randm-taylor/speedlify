@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/resources/connection-calculator/",
+  "requestedUrl": "https://awc.org/calculators/connection-calculator/",
+  "timestamp": 1775574893939,
+  "ranks": {
+    "hundos": 7,
+    "performance": 6,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1257.2935000000002,
+  "speedIndex": 1892.1482033422224,
+  "largestContentfulPaint": 1487.7265000000002,
+  "totalBlockingTime": 17,
+  "cumulativeLayoutShift": 0.09805838286529439,
+  "timeToInteractive": 8233.145600000002,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 67.71,
+  "weight": {
+    "summary": "159 requests • 36.3 MiB",
+    "total": 38029276,
+    "image": 107350,
+    "imageCount": 13,
+    "script": 827450,
+    "scriptCount": 41,
+    "document": 7968,
+    "font": 967069,
+    "fontCount": 8,
+    "stylesheet": 55993,
+    "stylesheetCount": 7,
+    "thirdParty": 37666906,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 1,
+    "-weight.document": 2,
+    "+weight.document": 8,
+    "-weight.script": 9,
+    "+weight.script": 1,
+    "-weight.image": 7,
+    "+weight.image": 3,
+    "-weight.font": 7,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1830,
+    "violations": 1
+  }
+}

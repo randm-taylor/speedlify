@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/licenses-permits-inspections/water-septic-subdivisions/",
+  "requestedUrl": "https://cdh.idaho.gov/licenses-permits-inspections/water-septic-subdivisions/",
+  "timestamp": 1775575241195,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 7,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.47,
+    "accessibility": 0.95,
+    "bestPractices": 0.82,
+    "seo": 1,
+    "total": 324
+  },
+  "firstContentfulPaint": 2704.449,
+  "speedIndex": 3605.1682958194397,
+  "largestContentfulPaint": 3058.379,
+  "totalBlockingTime": 1161.5349999999999,
+  "cumulativeLayoutShift": 0.40486515892299807,
+  "timeToInteractive": 10443.293250000002,
+  "maxPotentialFirstInputDelay": 1357,
+  "timeToFirstByte": 201.36700000000002,
+  "weight": {
+    "summary": "47 requests • 1.7 MiB",
+    "total": 1761947,
+    "image": 78011,
+    "imageCount": 6,
+    "script": 1216814,
+    "scriptCount": 19,
+    "document": 48623,
+    "font": 278947,
+    "fontCount": 5,
+    "stylesheet": 136245,
+    "stylesheetCount": 10,
+    "thirdParty": 1274417,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 3,
+    "-weight.document": 8,
+    "+weight.document": 2,
+    "-weight.script": 9,
+    "+weight.script": 1,
+    "-weight.image": 3,
+    "+weight.image": 7,
+    "-weight.font": 7,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 1392,
+    "violations": 5
+  }
+}

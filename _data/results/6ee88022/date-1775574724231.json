@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/activity/ski-snowboard/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/activity/ski-snowboard/",
+  "timestamp": 1775575540921,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 4,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.45,
+    "accessibility": 0.73,
+    "bestPractices": 0.61,
+    "seo": 0.92,
+    "total": 271
+  },
+  "firstContentfulPaint": 2280.3273099999997,
+  "speedIndex": 13634.390960436345,
+  "largestContentfulPaint": 28017.854290000003,
+  "totalBlockingTime": 727,
+  "cumulativeLayoutShift": 0.016870528293122584,
+  "timeToInteractive": 32619.727871000003,
+  "maxPotentialFirstInputDelay": 1382,
+  "timeToFirstByte": 706.4789999999999,
+  "weight": {
+    "summary": "127 requests • 7.8 MiB",
+    "total": 8228641,
+    "image": 6567110,
+    "imageCount": 46,
+    "script": 1285114,
+    "scriptCount": 47,
+    "document": 25564,
+    "font": 180486,
+    "fontCount": 6,
+    "stylesheet": 84467,
+    "stylesheetCount": 9,
+    "thirdParty": 821399,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 4,
+    "-weight.document": 3,
+    "+weight.document": 7,
+    "-weight.script": 2,
+    "+weight.script": 8,
+    "-weight.image": 7,
+    "+weight.image": 3,
+    "-weight.font": 8,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 533,
+    "violations": 24
+  }
+}
