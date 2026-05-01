@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/licenses-permits-inspections/food-establishments/",
+  "requestedUrl": "https://cdh.idaho.gov/licenses-permits-inspections/food-establishments/",
+  "timestamp": 1777646774563,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.41,
+    "accessibility": 0.96,
+    "bestPractices": 0.82,
+    "seo": 1,
+    "total": 319
+  },
+  "firstContentfulPaint": 2670.921,
+  "speedIndex": 2702.8897137107638,
+  "largestContentfulPaint": 3143.028,
+  "totalBlockingTime": 1394.5,
+  "cumulativeLayoutShift": 0.7348431968900058,
+  "timeToInteractive": 8262.2624,
+  "maxPotentialFirstInputDelay": 1404,
+  "timeToFirstByte": 94.667,
+  "weight": {
+    "summary": "43 requests • 1 MiB",
+    "total": 1052963,
+    "image": 79564,
+    "imageCount": 7,
+    "script": 619028,
+    "scriptCount": 17,
+    "document": 17980,
+    "font": 243725,
+    "fontCount": 4,
+    "stylesheet": 88536,
+    "stylesheetCount": 9,
+    "thirdParty": 706625,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 6,
+    "-weight.document": 6,
+    "+weight.document": 4,
+    "-weight.script": 3,
+    "+weight.script": 7,
+    "-weight.image": 2,
+    "+weight.image": 8,
+    "-weight.font": 4,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 1419,
+    "violations": 2
+  }
+}

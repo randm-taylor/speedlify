@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/support-programs/women-infants-children/",
+  "requestedUrl": "https://cdh.idaho.gov/support-programs/women-infants-children/",
+  "timestamp": 1777646816040,
+  "ranks": {
+    "hundos": 8,
+    "performance": 7,
+    "accessibility": 5,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.38,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "seo": 1,
+    "total": 313
+  },
+  "firstContentfulPaint": 2641.67,
+  "speedIndex": 3778.7384049598854,
+  "largestContentfulPaint": 3350.4179999999997,
+  "totalBlockingTime": 1421.499999999999,
+  "cumulativeLayoutShift": 0.6554825383541437,
+  "timeToInteractive": 12194.531500000001,
+  "maxPotentialFirstInputDelay": 1411.999999999999,
+  "timeToFirstByte": 201.53700000000003,
+  "weight": {
+    "summary": "61 requests • 2 MiB",
+    "total": 2131797,
+    "image": 100807,
+    "imageCount": 9,
+    "script": 1476995,
+    "scriptCount": 25,
+    "document": 74564,
+    "font": 278946,
+    "fontCount": 5,
+    "stylesheet": 195318,
+    "stylesheetCount": 11,
+    "thirdParty": 1751947,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 2,
+    "-weight.document": 9,
+    "+weight.document": 1,
+    "-weight.script": 7,
+    "+weight.script": 3,
+    "-weight.image": 7,
+    "+weight.image": 3,
+    "-weight.font": 7,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 1157,
+    "violations": 4
+  }
+}
