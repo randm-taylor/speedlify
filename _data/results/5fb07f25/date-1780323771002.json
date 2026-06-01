@@ -1,0 +1,66 @@
+{
+  "url": "https://arcticapples.com/contact-us/",
+  "requestedUrl": "https://arcticapples.com/contact-us/",
+  "timestamp": 1780323818247,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.18,
+    "accessibility": 0.75,
+    "bestPractices": 0.82,
+    "seo": 1,
+    "total": 275
+  },
+  "firstContentfulPaint": 4026.789,
+  "speedIndex": 10887.438587877516,
+  "largestContentfulPaint": 37807.72599999994,
+  "totalBlockingTime": 732,
+  "cumulativeLayoutShift": 0.5289430029195776,
+  "timeToInteractive": 40203.252199999944,
+  "maxPotentialFirstInputDelay": 1341,
+  "timeToFirstByte": 446.11199999999997,
+  "weight": {
+    "summary": "64 requests • 7.5 MiB",
+    "total": 7853402,
+    "image": 5997013,
+    "imageCount": 10,
+    "script": 1186040,
+    "scriptCount": 28,
+    "document": 48720,
+    "font": 482844,
+    "fontCount": 5,
+    "stylesheet": 135339,
+    "stylesheetCount": 12,
+    "thirdParty": 1161286,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 3,
+    "-weight.document": 9,
+    "+weight.document": 1,
+    "-weight.script": 9,
+    "+weight.script": 1,
+    "-weight.image": 7,
+    "+weight.image": 3,
+    "-weight.font": 4,
+    "+weight.font": 6,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 716,
+    "violations": 26
+  }
+}

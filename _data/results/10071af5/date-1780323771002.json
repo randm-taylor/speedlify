@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/activity/fishing/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/activity/fishing/",
+  "timestamp": 1780324686523,
+  "ranks": {
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 6,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.45,
+    "accessibility": 0.73,
+    "bestPractices": 0.61,
+    "seo": 0.92,
+    "total": 271
+  },
+  "firstContentfulPaint": 2271.29179,
+  "speedIndex": 22964.508923367,
+  "largestContentfulPaint": 9989.27895,
+  "totalBlockingTime": 712.5,
+  "cumulativeLayoutShift": 0.016547693971037322,
+  "timeToInteractive": 61687.57200400003,
+  "maxPotentialFirstInputDelay": 1343,
+  "timeToFirstByte": 94.09100000000001,
+  "weight": {
+    "summary": "125 requests • 18.5 MiB",
+    "total": 19362372,
+    "image": 17751109,
+    "imageCount": 44,
+    "script": 1308265,
+    "scriptCount": 47,
+    "document": 25397,
+    "font": 180458,
+    "fontCount": 6,
+    "stylesheet": 84472,
+    "stylesheetCount": 9,
+    "thirdParty": 842945,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 8,
+    "-weight.script": 3,
+    "+weight.script": 7,
+    "-weight.image": 9,
+    "+weight.image": 1,
+    "-weight.font": 5,
+    "+weight.font": 4,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 561,
+    "violations": 25
+  }
+}
