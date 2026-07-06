@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/ewp/bci-joists/",
+  "requestedUrl": "https://www.bc.com/ewp/bci-joists/",
+  "timestamp": 1783346469684,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.54,
+    "accessibility": 0.66,
+    "bestPractices": 0.75,
+    "seo": 0.92,
+    "total": 287
+  },
+  "firstContentfulPaint": 6096.874000000002,
+  "speedIndex": 15673.876703629212,
+  "largestContentfulPaint": 54487.78400000014,
+  "totalBlockingTime": 158.5,
+  "cumulativeLayoutShift": 0.004133060070032078,
+  "timeToInteractive": 59897.33357840209,
+  "maxPotentialFirstInputDelay": 126,
+  "timeToFirstByte": 74.01100000000002,
+  "weight": {
+    "summary": "113 requests • 11.5 MiB",
+    "total": 12093926,
+    "image": 9859245,
+    "imageCount": 22,
+    "script": 1297330,
+    "scriptCount": 44,
+    "document": 51685,
+    "font": 520351,
+    "fontCount": 6,
+    "stylesheet": 357456,
+    "stylesheetCount": 22,
+    "thirdParty": 1044499,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 2,
+    "-weight.document": 9,
+    "+weight.document": 2,
+    "-weight.script": 5,
+    "+weight.script": 6,
+    "-weight.image": 10,
+    "+weight.image": 1,
+    "-weight.font": 6,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "passes": 923,
+    "violations": 60
+  }
+}

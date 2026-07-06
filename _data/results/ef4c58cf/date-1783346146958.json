@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/ewp/software/bc-calc/",
+  "requestedUrl": "https://www.bc.com/ewp/software/bc-calc/",
+  "timestamp": 1783346441743,
+  "ranks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 5,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.61,
+    "accessibility": 0.7,
+    "bestPractices": 0.75,
+    "seo": 0.92,
+    "total": 298
+  },
+  "firstContentfulPaint": 5530.902,
+  "speedIndex": 5530.902,
+  "largestContentfulPaint": 6936.902,
+  "totalBlockingTime": 145.5,
+  "cumulativeLayoutShift": 0.0005372653697912533,
+  "timeToInteractive": 16587.271899999996,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 187.98,
+  "weight": {
+    "summary": "88 requests • 2.5 MiB",
+    "total": 2610369,
+    "image": 317132,
+    "imageCount": 12,
+    "script": 1396787,
+    "scriptCount": 36,
+    "document": 25068,
+    "font": 519292,
+    "fontCount": 5,
+    "stylesheet": 344870,
+    "stylesheetCount": 17,
+    "thirdParty": 1215285,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 10,
+    "-weight.document": 2,
+    "+weight.document": 9,
+    "-weight.script": 8,
+    "+weight.script": 3,
+    "-weight.image": 2,
+    "+weight.image": 9,
+    "-weight.font": 3,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 411,
+    "violations": 23
+  }
+}
