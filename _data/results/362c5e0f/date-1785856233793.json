@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/ewp/boise-glulam/",
+  "requestedUrl": "https://www.bc.com/ewp/boise-glulam/",
+  "timestamp": 1785856560891,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 6,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.54,
+    "accessibility": 0.73,
+    "bestPractices": 0.75,
+    "seo": 0.92,
+    "total": 294
+  },
+  "firstContentfulPaint": 8147.274,
+  "speedIndex": 9541.624132739888,
+  "largestContentfulPaint": 24047.273999999998,
+  "totalBlockingTime": 160,
+  "cumulativeLayoutShift": 0.00023570462100798643,
+  "timeToInteractive": 30180.324,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 250.966,
+  "weight": {
+    "summary": "117 requests • 5.9 MiB",
+    "total": 6218131,
+    "image": 3877094,
+    "imageCount": 25,
+    "script": 1314293,
+    "scriptCount": 44,
+    "document": 40561,
+    "font": 520483,
+    "fontCount": 6,
+    "stylesheet": 357310,
+    "stylesheetCount": 22,
+    "thirdParty": 1147963,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 5,
+    "-weight.document": 7,
+    "+weight.document": 4,
+    "-weight.script": 6,
+    "+weight.script": 5,
+    "-weight.image": 7,
+    "+weight.image": 4,
+    "-weight.font": 8,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 68,
+    "violations": 1
+  }
+}

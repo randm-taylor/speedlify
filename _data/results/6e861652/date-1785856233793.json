@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/careers/",
+  "requestedUrl": "https://www.bc.com/careers/",
+  "timestamp": 1785856477930,
+  "ranks": {
+    "hundos": 1,
+    "performance": 5,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.57,
+    "accessibility": 0.77,
+    "bestPractices": 0.75,
+    "seo": 1,
+    "total": 309
+  },
+  "firstContentfulPaint": 7383.521,
+  "speedIndex": 8073.209916741234,
+  "largestContentfulPaint": 28458.521,
+  "totalBlockingTime": 61,
+  "cumulativeLayoutShift": 0.004873225122546246,
+  "timeToInteractive": 33585.544200000004,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 65.608,
+  "weight": {
+    "summary": "85 requests • 6.4 MiB",
+    "total": 6761690,
+    "image": 4784031,
+    "imageCount": 14,
+    "script": 1194628,
+    "scriptCount": 32,
+    "document": 25797,
+    "font": 405082,
+    "fontCount": 4,
+    "stylesheet": 345000,
+    "stylesheetCount": 17,
+    "thirdParty": 1012939,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 4,
+    "-weight.document": 4,
+    "+weight.document": 7,
+    "-weight.script": 3,
+    "+weight.script": 8,
+    "-weight.image": 8,
+    "+weight.image": 3,
+    "-weight.font": 2,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 68,
+    "violations": 1
+  }
+}

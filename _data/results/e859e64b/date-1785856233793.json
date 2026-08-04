@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/11-fishing-holes-in-southwest-idaho/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/11-fishing-holes-in-southwest-idaho/",
+  "timestamp": 1785857043298,
+  "ranks": {
+    "hundos": 4,
+    "performance": 6,
+    "accessibility": 2,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.45,
+    "accessibility": 0.75,
+    "bestPractices": 0.61,
+    "seo": 0.92,
+    "total": 273
+  },
+  "firstContentfulPaint": 2249.78246,
+  "speedIndex": 6776.596931763498,
+  "largestContentfulPaint": 12737.984690000001,
+  "totalBlockingTime": 939,
+  "cumulativeLayoutShift": 0.03160167090932148,
+  "timeToInteractive": 19505.730853000005,
+  "maxPotentialFirstInputDelay": 1478,
+  "timeToFirstByte": 434.102,
+  "weight": {
+    "summary": "101 requests • 3.2 MiB",
+    "total": 3314297,
+    "image": 1653895,
+    "imageCount": 14,
+    "script": 1351425,
+    "scriptCount": 49,
+    "document": 29410,
+    "font": 180491,
+    "fontCount": 6,
+    "stylesheet": 84270,
+    "stylesheetCount": 9,
+    "thirdParty": 879345,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 8,
+    "-weight.document": 8,
+    "+weight.document": 2,
+    "-weight.script": 8,
+    "+weight.script": 2,
+    "-weight.image": 3,
+    "+weight.image": 7,
+    "-weight.font": 9,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 68,
+    "violations": 1
+  }
+}

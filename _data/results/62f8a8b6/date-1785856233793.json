@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bcidahofoundation.org/funding-opportunity-health-professions-programs/",
+  "requestedUrl": "https://www.bcidahofoundation.org/funding-opportunity-health-professions-programs/",
+  "timestamp": 1785856678383,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 2,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.69,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 346
+  },
+  "firstContentfulPaint": 2615.3199999999997,
+  "speedIndex": 4307.39434372667,
+  "largestContentfulPaint": 10572.678499999998,
+  "totalBlockingTime": 54,
+  "cumulativeLayoutShift": 0.036310776938547895,
+  "timeToInteractive": 10837.761449999998,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 766.425,
+  "weight": {
+    "summary": "36 requests • 1.8 MiB",
+    "total": 1918812,
+    "image": 1279113,
+    "imageCount": 5,
+    "script": 545945,
+    "scriptCount": 13,
+    "document": 14677,
+    "font": 31491,
+    "fontCount": 1,
+    "stylesheet": 44903,
+    "stylesheetCount": 11,
+    "thirdParty": 375063,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 2,
+    "-weight.document": 3,
+    "+weight.document": 7,
+    "-weight.script": 6,
+    "+weight.script": 2,
+    "-weight.image": 8,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 278,
+    "violations": 8
+  }
+}

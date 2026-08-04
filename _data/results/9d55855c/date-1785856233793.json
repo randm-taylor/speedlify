@@ -1,0 +1,66 @@
+{
+  "url": "https://awc.org/resources/2018-nds/",
+  "requestedUrl": "https://awc.org/publications/2018-nds/",
+  "timestamp": 1785856415188,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 1241.4270000000001,
+  "speedIndex": 1478.5141987460731,
+  "largestContentfulPaint": 2090.517,
+  "totalBlockingTime": 30,
+  "cumulativeLayoutShift": 0.08318991472028042,
+  "timeToInteractive": 5789.175500000001,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 47.428,
+  "weight": {
+    "summary": "34 requests • 743.1 KiB",
+    "total": 760969,
+    "image": 29682,
+    "imageCount": 12,
+    "script": 458238,
+    "scriptCount": 10,
+    "document": 8146,
+    "font": 210271,
+    "fontCount": 4,
+    "stylesheet": 52578,
+    "stylesheetCount": 3,
+    "thirdParty": 327836,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 8,
+    "-weight.document": 4,
+    "+weight.document": 6,
+    "-weight.script": 2,
+    "+weight.script": 8,
+    "-weight.image": 2,
+    "+weight.image": 8,
+    "-weight.font": 5,
+    "+weight.font": 5,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 68,
+    "violations": 1
+  }
+}
