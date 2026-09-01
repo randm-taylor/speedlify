@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/lawful-presence-attestation-english/",
+  "requestedUrl": "https://cdh.idaho.gov/lawful-presence-attestation-english/",
+  "timestamp": 1788279980588,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.35,
+    "accessibility": 0.91,
+    "bestPractices": 0.61,
+    "seo": 1,
+    "total": 287
+  },
+  "firstContentfulPaint": 2669.87,
+  "speedIndex": 4079.9492320602712,
+  "largestContentfulPaint": 3880.2719999999995,
+  "totalBlockingTime": 1461.7559999999994,
+  "cumulativeLayoutShift": 0.5254520443787145,
+  "timeToInteractive": 11020.240299999998,
+  "maxPotentialFirstInputDelay": 1410,
+  "timeToFirstByte": 628.1379999999999,
+  "weight": {
+    "summary": "49 requests • 1.3 MiB",
+    "total": 1358388,
+    "image": 81416,
+    "imageCount": 7,
+    "script": 792779,
+    "scriptCount": 19,
+    "document": 19754,
+    "font": 360652,
+    "fontCount": 5,
+    "stylesheet": 97777,
+    "stylesheetCount": 9,
+    "thirdParty": 737107,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 4,
+    "-weight.document": 5,
+    "+weight.document": 5,
+    "-weight.script": 6,
+    "+weight.script": 4,
+    "-weight.image": 3,
+    "+weight.image": 7,
+    "-weight.font": 9,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 562,
+    "violations": 7
+  }
+}

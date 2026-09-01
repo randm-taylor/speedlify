@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/licenses-permits-inspections/",
+  "requestedUrl": "https://cdh.idaho.gov/licenses-permits-inspections/",
+  "timestamp": 1788279938390,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.63,
+    "accessibility": 0.96,
+    "bestPractices": 0.61,
+    "seo": 1,
+    "total": 320
+  },
+  "firstContentfulPaint": 2132.9610000000002,
+  "speedIndex": 2956.1910682563016,
+  "largestContentfulPaint": 3216.957,
+  "totalBlockingTime": 1488.5,
+  "cumulativeLayoutShift": 0.08799788663296336,
+  "timeToInteractive": 8797.116025000001,
+  "maxPotentialFirstInputDelay": 1451,
+  "timeToFirstByte": 117.827,
+  "weight": {
+    "summary": "49 requests • 1.1 MiB",
+    "total": 1135275,
+    "image": 153071,
+    "imageCount": 11,
+    "script": 648978,
+    "scriptCount": 17,
+    "document": 14173,
+    "font": 215260,
+    "fontCount": 3,
+    "stylesheet": 97779,
+    "stylesheetCount": 9,
+    "thirdParty": 708472,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 6,
+    "-weight.document": 1,
+    "+weight.document": 9,
+    "-weight.script": 4,
+    "+weight.script": 6,
+    "-weight.image": 6,
+    "+weight.image": 4,
+    "-weight.font": 4,
+    "+weight.font": 6,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 376,
+    "violations": 1
+  }
+}

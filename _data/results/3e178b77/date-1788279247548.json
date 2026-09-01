@@ -1,0 +1,20 @@
+{
+  "url": "https://arcticapples.com/resources/",
+  "error": "Unknown error (no scores).",
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 9,
+    "-weight.document": 9,
+    "+weight.document": 9,
+    "-weight.script": 9,
+    "+weight.script": 9,
+    "-weight.image": 9,
+    "+weight.image": 9,
+    "-weight.font": 9,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 9
+  }
+}

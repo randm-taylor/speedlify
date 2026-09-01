@@ -1,0 +1,66 @@
+{
+  "url": "https://cdh.idaho.gov/healthcare-appointments/immunizations/",
+  "requestedUrl": "https://cdh.idaho.gov/healthcare-appointments/immunizations/",
+  "timestamp": 1788279990012,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.61,
+    "accessibility": 0.96,
+    "bestPractices": 0.61,
+    "seo": 1,
+    "total": 318
+  },
+  "firstContentfulPaint": 2675.1980000000003,
+  "speedIndex": 2947.102523844926,
+  "largestContentfulPaint": 3216.9330000000004,
+  "totalBlockingTime": 1574,
+  "cumulativeLayoutShift": 0.0841393178204388,
+  "timeToInteractive": 8666.945749999999,
+  "maxPotentialFirstInputDelay": 1574,
+  "timeToFirstByte": 203.373,
+  "weight": {
+    "summary": "43 requests • 1 MiB",
+    "total": 1059524,
+    "image": 76765,
+    "imageCount": 5,
+    "script": 648707,
+    "scriptCount": 17,
+    "document": 15064,
+    "font": 215218,
+    "fontCount": 3,
+    "stylesheet": 97749,
+    "stylesheetCount": 9,
+    "thirdParty": 708451,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 9,
+    "-weight.document": 2,
+    "+weight.document": 8,
+    "-weight.script": 2,
+    "+weight.script": 8,
+    "-weight.image": 1,
+    "+weight.image": 9,
+    "-weight.font": 1,
+    "+weight.font": 9,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 487,
+    "violations": 2
+  }
+}

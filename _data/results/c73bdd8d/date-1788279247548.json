@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/locations/",
+  "requestedUrl": "https://www.bc.com/locations/",
+  "timestamp": 1788279702590,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 1,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.49,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "seo": 0.92,
+    "total": 290
+  },
+  "firstContentfulPaint": 5875.533000000001,
+  "speedIndex": 9751.116359918276,
+  "largestContentfulPaint": 21638.173000000003,
+  "totalBlockingTime": 321,
+  "cumulativeLayoutShift": 0.013426525008203625,
+  "timeToInteractive": 23672.5455,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 1283.8899999999999,
+  "weight": {
+    "summary": "167 requests • 3.6 MiB",
+    "total": 3793696,
+    "image": 981707,
+    "imageCount": 75,
+    "script": 1825944,
+    "scriptCount": 40,
+    "document": 27507,
+    "font": 547311,
+    "fontCount": 7,
+    "stylesheet": 388780,
+    "stylesheetCount": 20,
+    "thirdParty": 1919258,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 8,
+    "-weight.document": 6,
+    "+weight.document": 5,
+    "-weight.script": 9,
+    "+weight.script": 2,
+    "-weight.image": 2,
+    "+weight.image": 9,
+    "-weight.font": 9,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 6008,
+    "violations": 30
+  }
+}
