@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bc.com/ewp/versa-lam-lvl/",
+  "requestedUrl": "https://www.bc.com/ewp/versa-lam-lvl/",
+  "timestamp": 1793990048454,
+  "ranks": {
+    "hundos": 7,
+    "performance": 6,
+    "accessibility": 1,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.34,
+    "accessibility": 0.78,
+    "bestPractices": 0.75,
+    "seo": 0.92,
+    "total": 279
+  },
+  "firstContentfulPaint": 7106.226999999998,
+  "speedIndex": 7544.833951331017,
+  "largestContentfulPaint": 21710.1645,
+  "totalBlockingTime": 1146.5065000000031,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 28483.213849999993,
+  "maxPotentialFirstInputDelay": 580,
+  "timeToFirstByte": 150.74800000000005,
+  "weight": {
+    "summary": "105 requests • 6.2 MiB",
+    "total": 6475316,
+    "image": 4047586,
+    "imageCount": 24,
+    "script": 1405308,
+    "scriptCount": 40,
+    "document": 63352,
+    "font": 520396,
+    "fontCount": 6,
+    "stylesheet": 349401,
+    "stylesheetCount": 19,
+    "thirdParty": 1240580,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 5,
+    "-weight.document": 9,
+    "+weight.document": 2,
+    "-weight.script": 6,
+    "+weight.script": 5,
+    "-weight.image": 7,
+    "+weight.image": 4,
+    "-weight.font": 7,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 70,
+    "violations": 1
+  }
+}

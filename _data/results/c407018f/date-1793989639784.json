@@ -1,0 +1,66 @@
+{
+  "url": "https://www.visitsouthwestidaho.org/places-to-stay/",
+  "requestedUrl": "https://www.visitsouthwestidaho.org/places-to-stay/",
+  "timestamp": 1793990832692,
+  "ranks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 7,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 0.44,
+    "accessibility": 0.71,
+    "bestPractices": 0.61,
+    "seo": 0.92,
+    "total": 268
+  },
+  "firstContentfulPaint": 2577.697,
+  "speedIndex": 6393.291326314028,
+  "largestContentfulPaint": 14731.178,
+  "totalBlockingTime": 1010.5,
+  "cumulativeLayoutShift": 0.008918096577723978,
+  "timeToInteractive": 17256.8312,
+  "maxPotentialFirstInputDelay": 539,
+  "timeToFirstByte": 404.599,
+  "weight": {
+    "summary": "116 requests • 8.4 MiB",
+    "total": 8820295,
+    "image": 7414893,
+    "imageCount": 26,
+    "script": 1100964,
+    "scriptCount": 49,
+    "document": 28566,
+    "font": 180501,
+    "fontCount": 6,
+    "stylesheet": 76771,
+    "stylesheetCount": 11,
+    "thirdParty": 772845,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 4,
+    "-weight.document": 1,
+    "+weight.document": 9,
+    "-weight.script": 1,
+    "+weight.script": 9,
+    "-weight.image": 6,
+    "+weight.image": 4,
+    "-weight.font": 7,
+    "+weight.font": 3,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 350,
+    "violations": 18
+  }
+}
