@@ -2,6 +2,13 @@
 
 After you make a fast web site, keep it fast by measuring it over time. Read [Use Speedlify to Continuously Measure Site Performance](https://www.zachleat.com/web/speedlify/). Created by [@zachleat](https://www.zachleat.com/).
 
+## Reynolds+Myers deployment
+
+* **Dashboard:** https://speedlify-2vy.pages.dev/ is hosted on Cloudflare Pages, which rebuilds the site from the `live` branch on every push. The home page's "Last Run Date" column shows when each site was last tested.
+* **Sites tested:** each client has a file in `_data/sites/*.js`.
+* **Monthly update:** on the 1st of each month, a scheduled Claude Code session runs `npm run test-pages`. It commits the new files in `_data/results/` and the updated `_data/results-last-runs.json` as "<Month YYYY> update", pushes to `live`, and posts a summary with the dashboard link to Slack #infrastructure.
+* **Running it in a Claude Code cloud container:** the container runs as root, so Chromium needs `--no-sandbox`. The environment's setup script creates `/usr/local/bin/chrome-nosandbox`, a wrapper around `/opt/pw-browsers/chromium`. Run `PUPPETEER_SKIP_DOWNLOAD=1 npm install`, then `PUPPETEER_EXECUTABLE_PATH=/usr/local/bin/chrome-nosandbox npm run test-pages`. On your own machine, the steps under "Run locally" below work as-is.
+
 * Requires Node 12+
 * Each file in `_data/sites/*.js` is a category and contains a list of sites for comparison.
 
